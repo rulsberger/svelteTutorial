@@ -10,7 +10,7 @@
 
 <form method="POST">
     <label>
-        enter the passphrase
+        enter the passphrase "open sesame"
         <input name="passphrase" autocomplete="off" />
     </label>
 </form>
